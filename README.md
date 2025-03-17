@@ -1,0 +1,1 @@
+# bugged-phpunit-covers-method-with-trait
